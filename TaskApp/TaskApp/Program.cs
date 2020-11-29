@@ -3,12 +3,6 @@ using System.Threading.Tasks;
 
 namespace Task01
 {
-    class Box
-    {
-        int num;
-        public int Num { get { return Num; } }
-        public Box(int num) => this.num = num;
-    }
     class Program
     {
         static void Main(string[] args)
